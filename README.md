@@ -110,20 +110,4 @@ Contributions are welcome! If you have suggestions, improvements, or bug fixes:
 4. Push to your branch (`git push origin feature-branch`).
 5. Open a pull request.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
----
-
-### Giải thích nội dung:
-1. **Overview**: Mô tả chi tiết hơn về mục đích của dự án, bao gồm các mô hình NTCP được sử dụng (Logistic và LKB) và các phân tích bổ sung (thống kê, biểu đồ).
-2. **Input Data**: Hướng dẫn rõ ràng về cấu trúc thư mục và định dạng file đầu vào, giúp người dùng dễ dàng chuẩn bị dữ liệu.
-3. **Output Files**: Liệt kê các file đầu ra và mô tả nội dung của chúng, giúp người dùng biết được kết quả sẽ nhận được.
-4. **Dependencies**: Cập nhật danh sách thư viện dựa trên code của bạn (thêm `pandas`, `seaborn`, và `dicompyler-core`).
-5. **Usage**: Hướng dẫn cách chạy từng script, bao gồm cả script cho bên phải và phân tích độ nhạy.
-
-### Lưu ý:
-- Nếu bạn muốn thêm thông tin chi tiết hơn (ví dụ: cách chuẩn bị dữ liệu DVH, hoặc các tham số NTCP cụ thể), bạn có thể mở rộng phần **Input Data** hoặc thêm một phần mới như **NTCP Parameters**.
-- Nếu bạn chưa có file `LICENSE`, bạn nên tạo một file này (ví dụ: MIT License) để xác định quyền sử dụng code.
-
-Bạn có muốn điều chỉnh hoặc bổ sung gì cho README không? Ví dụ, thêm thông tin về cách đóng góp hoặc các tham số NTCP cụ thể?
